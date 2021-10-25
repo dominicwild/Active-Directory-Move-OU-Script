@@ -1,0 +1,10 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
+"Name","GivenName","SamAccountName"
+"A","A","User1"
+"BName","BName","User2"
+"AnotherOne","AnotherOne","AnotherUser"
+"NewUser","NewUser","NewUser"
+"MoreUser","MoreUser","MoreUser"
+"First FL. Last","First","FirstLastNameUser"
+"Finance23 F. money","Finance23","FinanceUser22"
+"James McSorley","James","jamesmcsorley"
